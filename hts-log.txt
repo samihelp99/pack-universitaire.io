@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 20 Feb 2022 01:03:17 at http://www.themestarz.net/html/universo/index2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.themestarz.net/html/universo/index2.html -O1 "C:\My Web Sites\univercityAdd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:09:49	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assetss/js/retina-1.1.0.min.js (from www.themestarz.net/html/universo/index2.html)
+01:09:49	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/url_string (from www.themestarz.net/html/universo/index.html)
+01:09:51	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/js/greensock.js (from www.themestarz.net/html/universo/homepage-courses.html)
+01:09:51	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/js/layerslider.transitions.js (from www.themestarz.net/html/universo/homepage-courses.html)
+01:09:51	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/js/layerslider.kreaturamedia.jquery.js (from www.themestarz.net/html/universo/homepage-courses.html)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/blank.gif (from www.themestarz.net/html/universo/assets/css/layerslider.css)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/fonts/flexslider-icon.eot (from www.themestarz.net/html/universo/assets/css/flexslider.css)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/fonts/flexslider-icon.eot? (from www.themestarz.net/html/universo/assets/css/flexslider.css)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/fonts/flexslider-icon.woff (from www.themestarz.net/html/universo/assets/css/flexslider.css)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/fonts/flexslider-icon.ttf (from www.themestarz.net/html/universo/assets/css/flexslider.css)
+01:09:54	Error: 	"Not Found" (404) at link www.themestarz.net/html/universo/assets/css/fonts/flexslider-icon.svg (from www.themestarz.net/html/universo/assets/css/flexslider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 37 seconds : 157 links scanned, 145 files written (10589904 bytes overall) [10029891 bytes received at 25264 bytes/sec], 802258 bytes transferred using HTTP compression in 40 files, ratio 23%, 3.2 requests per connection
+(11 errors, 0 warnings, 0 messages)
